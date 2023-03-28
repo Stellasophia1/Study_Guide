@@ -1,0 +1,223 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+
+<style>
+body {
+  margin: 0;
+
+}
+
+.topnav {
+  overflow: hidden;
+  background-color: #9F8C76;
+}
+
+.topnav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.topnav a:hover {
+  background-color: #9F8C76;
+  color: black;
+}
+
+.topnav a.active {
+  background-color: #C4A484;
+  color: white;
+}
+</style>
+</head>
+<body>
+
+
+<div class="topnav">
+<a class="active" href="#home">Home</a>
+ <a href="">Notes
+ <a href="https://www.w3schools.com">Orginization
+ <a href="">Presenting work</a>
+</div>
+
+
+<div style="padding-left:16px">
+</div>
+
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+
+
+
+
+<style>
+
+
+
+.fa {
+
+  padding: 10px;
+
+  font-size: 15px;
+
+  width: 25px;
+
+  text-align: center;
+
+  text-decoration: none;
+
+  margin: 5px 2px;
+
+}
+
+
+
+
+
+.firstblock {
+
+  background-image: url('https://i.etsystatic.com/25006822/r/il/c00d9d/3256089607/il_1588xN.3256089607_fl35.jpg');
+
+  color: white;
+
+  text-align: center;
+
+    padding: 20px;
+
+
+}
+
+
+
+.secondblock {
+
+  background-image: url('https://images.unsplash.com/photo-1570451488142-71d08e1511e3?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80');
+
+  color: white;
+
+  text-align: left;
+
+  padding: 20px;
+
+}
+
+.thirdblock {
+
+   background-image: url('https://i.pinimg.com/736x/45/a3/17/45a31783d4ecea50041ae3f6324865de.jpg');
+
+  color: white;
+
+  text-align: left;
+
+  padding: 20px;
+
+}
+
+p.dashed {border-style: dashed;}
+
+</style>
+
+</head>
+
+<div class="firstblock">
+
+
+<h1>Study Guide</h1>
+
+
+
+
+<div class="secondblock">
+
+<img src="https://images.rawpixel.com/image_social_landscape/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvcm00ODYtYmctMDA1LXguanBn.jpg?s=6dtkzsKvF2Q5Ov1r4pVRINVa-kuyU1cXFs9KfPryjso
+
+" width=200px>
+
+<h2>Introduction</h2>
+
+<p class="dashed">On our website we will discuss how to make neat, pretty and easy to understand notes, helpful tips on how to study effectively and how to present your work well in school. We wrote this website to help improve other students in school to get good grades and focus in class. It will be very appealing and will help to calm and relax the busy minds of middle school students. Read on to improve in school…</p>
+
+
+
+<h2>About us</h2>
+
+<pre><b><u>Olivia</u></b>
+Hi I'm Olivia, and I myself have had serious trouble taking nice
+notes and being unhappy with my work. So hopefully this website
+will help fellow students feel more confident and happy with
+school.
+I have a baby pet turtle named Nemo and I love ducks and art.
+One of my passions is singing and I quite enjoy reading.
+
+
+<b><u>Stella Sophia</u></b>
+Hello, My name is Stella Sophia and I am 11 years old. I am a
+MYP1 student at H-FARM. I speak four languages and am currently
+learning my fifth language. My hobbies are playing the violin and
+reading.
+
+<b><u>Sole</u></b>
+Hey guys, my name is Sole. I go to H-FARM and am in MYP 1C. I am
+almost 12 years old, Chinese and Italian, and attempting to learn
+more about my third language, and improve on it. I’m really
+passionate about note-taking, and study tips because the ones
+other people give me, have been life savers. At first I didn't
+really like reading, but then I  realised that you just need to
+find your book genre.
+
+
+</pre>  <img src=
+"https://marketplace.canva.com/EAFTDa9HnCc/1/0/900w/canva-cream-beige-aesthetic-phone-wallpaper-D0iGbUPXGiU.jpg"
+        align="right" width="170" height="230">
+
+<h1>YOUR feedback!</h1>
+
+<form action="/action_page.php">
+  <label for="fname">Your First name:</label>
+  <input type="text" id="fname" name="fname"><br><br>
+  <label for="lname">Your Last name:</label>
+  <input type="text" id="lname" name="lname"><br><br>
+  <label for="lname">Your Email:</label>
+  <input type="text" id="lname" name="lname"><br><br>
+  <label for="lname">Your Feedback:</label>
+  <input type="text" id="lname" name="lname"><br><br>
+  <input type="submit" value="Submit">
+</form>
+
+<pre>Click the "Submit" button to help us improve our website</pre>
+
+
+</div>
+
+
+<div class="thirdblock">
+<footer>
+
+<ul>
+  <li>Authors: Olivia Olmeti, Sole Hu, Stella Sophia Pasquariello</li>
+    <br><img src=
+" https://w0.peakpx.com/wallpaper/233/791/HD-wallpaper-neutral-aesthetic-iphone-abstract-design-abstract-thumbnail.jpg"
+        align="right" width="160" height="200">
+    <br>
+   <li> <a href="mailto:maria.hu@student.h-is.com">maria.hu@student.h-is.com</a></p>
+       <a href="mailto:olivia.olmeti@student.h-is.com">olivis.olmeti@student.h-is.com</a></p>
+          <a href="mailto:stellasophia.pasquariello@student.h-is.com">stellasophia.pasquariello@student.h-is.com</a></p>
+          </li>
+          <br>
+    <br>
+  <li>Creation Date: 11/03/2023</li>
+           
+  </footer>
+
+</div>
